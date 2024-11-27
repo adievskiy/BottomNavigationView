@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="title_home">Home</string>
+    <string name="title_notes">Заметки</string>
+    <string name="title_weather">Погода</string>
+    <string name="textNameTV">Имя</string>
+    <string name="textCityTV">Город</string>
+    <string name="textTemperatureTV">9°</string>
+    <string name="textWindDegreeTitleTV">Направление</string>
+    <string name="textWindSpeedTitleTV">Скорость</string>
+    <string name="textPressureTitleTV">Атмосферное давление</string>
+    <string name="textWindSpeedTV">15 м/с</string>
+    <string name="textWindDegreeTV">300° ССЗ</string>
+    <string name="textPressureTV">770 мм рт.ст.</string>
+    <string name="windTV">Ветер</string>
+    <string name="textMaxMinTV">Макс: 10°, Мин: -1°</string>
+    <string name="api_key">499d3663ebee5fbf58dca065d6c63a98</string>
+    <string name="hintNewNoteET">Введите заметку</string>
+    <string name="textSaveNoteBTN">Сохранить</string>
+    <string name="textNoteTV">Заметка</string>
+</resources>
